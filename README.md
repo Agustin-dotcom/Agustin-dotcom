@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agustin-dotcom
 - 👀 I’m interested in Computer Science, Philosophy
-- 🌱 I’m currently learning Statistics, Data Bases
+- 🌱 I’m currently learning Artificial Intelligence, Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prietoagustin83@gmail.com
 - 😄 Pronouns: he/him
