@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agustin-dotcom
-- 👀 I’m interested in Computer Science, Philosophy
-- 🌱 I’m currently learning Artificial Intelligence, Functional and Declarative Programming, Automata Theory
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects or Human Computer Interaction projects that require a deep care on small details
+- 👀 I’m interested in Computer Science, Philosophy, Math, Physics.
+- 🌱 I’m currently learning Knowledge Based Systems, Design of Algorithms, Functional and Declarative Programming, Automata Theory.
+- 💞️ I’m looking to collaborate on Artificial Intelligence projects or Human Computer Interaction projects that require a deep care on small details.
 - 📫 How to reach me prietoagustin83@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: when i was young (9 years old), a dog 🐕‍🦺 LITERALLY bite my ass
