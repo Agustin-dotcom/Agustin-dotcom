@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agustin-dotcom
 - 👀 I’m interested in Computer Science, Philosophy, Math, Physics.
-- 🌱 I’m currently learning Knowledge Based Systems, Design of Algorithms, Functional and Declarative Programming, Automata Theory.
+- 🌱 I’m currently learning Data Mining, Multi-Agent Systems, Human Computer Interaction, Language Processors.
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects or Human Computer Interaction projects that require a deep care on small details.
 - 📫 How to reach me prietoagustin83@gmail.com
 - 😄 Pronouns: he/him
